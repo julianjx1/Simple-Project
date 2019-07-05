@@ -1,0 +1,32 @@
+#loginDiv{
+    border: 1px solid black;
+    padding: 10px;
+    width: 50%;
+    text-align: center;
+    margin-left: 25%;
+    border-radius: 5px;
+}
+
+label{
+    font-size: 20px;
+    font-weight: bold;
+    text-transform: capitalize
+}
+.f-80{
+    font-size: 80px
+}
+.ml-48p{
+    margin-left: 48%;
+}
+.mt-10p{
+    margin-top: 10%
+}
+.w-200{
+    width: 200px;
+}
+.mr-40{
+    margin-right: 40px;
+}
+.color-red{
+    color: red;
+}

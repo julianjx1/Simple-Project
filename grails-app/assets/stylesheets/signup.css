@@ -1,0 +1,59 @@
+#loginDiv{
+    border: 1px solid black;
+    padding: 20px;
+    width: 50%;
+    text-align: center;
+    margin-left: 25%;
+    border-radius: 5px;
+}
+.f-80{
+    font-size: 80px
+}
+.ml-48p{
+    margin-left: 48%;
+}
+.mt-10p{
+    margin-top: 10%
+}
+label{
+    text-transform: capitalize
+}.w-200{
+     width: 200px;
+ }
+.mr-40{
+    margin-right: 40px;
+}
+.border-none{
+    border: none;
+}
+.border-gray{
+    border: 1px solid gray;
+}
+.border-rounded-5{
+    border-radius: 5px;
+}
+.d-none{
+    display: none;
+}
+.color-strong{
+    color: green;
+}
+.color-notStrong{
+    color:darkgoldenrod;
+}
+.color-weak{
+    color:orangered;
+}
+.color-red{
+    color: red;
+}
+.p-none{
+    padding: none;
+}
+.color-green{
+    color: green;
+}
+
+.f-20{
+    font-size: 20px;
+}
